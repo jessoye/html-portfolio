@@ -1,0 +1,26 @@
+body{
+    background-color: pink;
+}
+h1{
+    color: blue;
+    text-align: center;
+    background-color: rgba(191, 34, 134,0.5);
+    padding: 10px;
+    position: relative;
+}
+h3{
+        color: blue;
+        text-align: center;
+ }
+h4{
+    color:green;
+}
+footer{
+    background-color: rgba(191, 34, 134,0.5);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width:100%;
+}
